@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "拝啓 貴方様",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-14T10:51:21.555884Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓 貴方様",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓_貴方様_=LOVE.txt"
+    }
+  ]
+}
